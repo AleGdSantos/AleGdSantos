@@ -1,9 +1,14 @@
-- 👋 Olá, meu nome é @AleGdSantos e sou uma entusiasta de diversos setores do vasto mundo da tecnologia. 
-- Atuo desde 2014 com sistemas embarcados com ênfase em plataformas Arduino, ESPressif e STMicro, tenho conhecimento em linguagem C, C++, R e Python.
+-👋 Olá, meu nome é @AleGdSantos e sou uma entusiasta de diversos setores do vasto mundo da tecnologia.
 
-- 👀 Estou sempre em busca de novos conhecimentos, por isso todo e qualquer aprendizagem são sempre muito bem-vindas.
-- 🌱 Atualmente tenho me dedicaco a Machine Learning, Inteligência Artificial, Robotic Process Automation (RPA) via Python e Uipath.
-- 📫 How to reach me https://www.linkedin.com/in/alessandra-santos-17017965
+💼 Desde 2014, atuo na área de sistemas embarcados, com foco em plataformas Arduino, ESPressif e STMicro. Possuo conhecimentos em linguagens como C, C++, R e Python.
+
+👀 Estou constantemente em busca de novos conhecimentos e desafios, sempre receptiva a aprender algo novo.
+
+🌱 Atualmente, estou expandindo minha expertise para abranger áreas como Machine Learning, Inteligência Artificial e Robotic Process Automation (RPA) utilizando Python. Além disso, estou embarcando na emocionante jornada de aprendizado de Rust.
+
+📫 Você pode entrar em contato comigo pelo LinkedIn para trocar ideias ou colaborar em projetos interessantes.
+
+https://www.linkedin.com/in/alessandra-santos-17017965
 
 <!---
 AleGdSantos/AleGdSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
